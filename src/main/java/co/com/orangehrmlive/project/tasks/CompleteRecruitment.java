@@ -26,7 +26,7 @@ import static co.com.orangehrmlive.project.ui.RecruitmentUI.SAVE_BUTTON;
 import static co.com.orangehrmlive.project.utils.Constants.TIME_SHORT;
 import static net.serenitybdd.screenplay.matchers.WebElementStateMatchers.isVisible;
 
-import java.awt.*;
+import java.awt.Robot;
 import java.awt.event.KeyEvent;
 import java.util.List;
 
